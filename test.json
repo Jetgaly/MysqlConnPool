@@ -1,0 +1,11 @@
+{
+    "host":"127.0.0.1",
+    "user":"jet",
+    "port":3306,
+    "passwd":"x",
+    "dbName":"test",
+    "clientflag":0,
+    "minSize":10,
+    "timeout":5000,
+    "maxSize":100
+}
